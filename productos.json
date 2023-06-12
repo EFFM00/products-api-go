@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Leche",
+      "stock": 50,
+      "code_value": "SKU123",
+      "is_published": true,
+      "expiration": "2023-12-31",
+      "price": 2.99
+    },
+    {
+      "id": 2,
+      "name": "Pan",
+      "stock": 30,
+      "code_value": "SKU456",
+      "is_published": true,
+      "expiration": "2023-10-15",
+      "price": 1.99
+    },
+    {
+      "id": 3,
+      "name": "Huevos",
+      "stock": 20,
+      "code_value": "SKU789",
+      "is_published": true,
+      "expiration": "2024-03-31",
+      "price": 3.49
+    },
+    {
+      "id": 4,
+      "name": "Arroz",
+      "stock": 40,
+      "code_value": "SKU012",
+      "is_published": true,
+      "expiration": "2023-09-30",
+      "price": 1.79
+    },
+    {
+      "id": 5,
+      "name": "Aceite",
+      "stock": 15,
+      "code_value": "SKU345",
+      "is_published": true,
+      "expiration": "2024-02-28",
+      "price": 4.99
+    },
+    {
+      "id": 6,
+      "name": "Azúcar",
+      "stock": 25,
+      "code_value": "SKU678",
+      "is_published": true,
+      "expiration": "2023-11-15",
+      "price": 2.49
+    },
+    {
+      "id": 7,
+      "name": "Sal",
+      "stock": 35,
+      "code_value": "SKU901",
+      "is_published": true,
+      "expiration": "2024-01-31",
+      "price": 1.29
+    },
+    {
+      "id": 8,
+      "name": "Café",
+      "stock": 10,
+      "code_value": "SKU234",
+      "is_published": true,
+      "expiration": "2023-10-31",
+      "price": 5.99
+    },
+    {
+      "id": 9,
+      "name": "Mermelada",
+      "stock": 20,
+      "code_value": "SKU567",
+      "is_published": true,
+      "expiration": "2024-04-30",
+      "price": 3.99
+    },
+    {
+      "id": 10,
+      "name": "Galletas",
+      "stock": 50,
+      "code_value": "SKU890",
+      "is_published": true,
+      "expiration": "2023-12-15",
+      "price": 2.49
+    }
+  ]
+  
